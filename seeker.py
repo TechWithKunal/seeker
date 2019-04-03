@@ -38,7 +38,7 @@ def banner():
  \___ \ \  ___/\  ___/ |    < \  ___/ |  | \/
 /____  > \___  >\___  >|__|_ \ \___  >|__|
 	 \/      \/     \/      \/     \/        ''' + W)
-	print ('\n' + G + '[>]' + C + ' Created By : ' + W +techwithkunall')
+	print ('\n' + G + '[>]' + C + ' Created By : ' + W +techwithkunal')
 	print (G + '[>]' + C + ' Version    : ' + W + ver + '\n')
 
 def network():
@@ -52,7 +52,7 @@ def network():
 
 def version():
 	print (G + '[+]' + C + ' Checking For Seeker Updates...' + W, end='')
-	update = requests.get('https://raw.githubusercontent.comTechWithKunal/seeker/master/version.txt', timeout = 5)
+	update = requests.get('https://raw.githubusercontent.com/TechWithKunal/seeker/master/version.txt', timeout = 5)
 	update = update.text.split(' ')[1]
 	update = update.strip()
 
