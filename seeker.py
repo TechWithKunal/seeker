@@ -38,7 +38,7 @@ def banner():
  \___ \ \  ___/\  ___/ |    < \  ___/ |  | \/
 /____  > \___  >\___  >|__|_ \ \___  >|__|
 	 \/      \/     \/      \/     \/        ''' + W)
-	print ('\n' + G + '[>]' + C + ' Created By : ' + W + Tech With Kunal')
+	print ('\n' + G + '[>]' + C + ' Created By : ' + W + TechWithKunal')
 	print (G + '[>]' + C + ' Version    : ' + W + ver + '\n')
 
 def network():
