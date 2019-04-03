@@ -1,0 +1,11 @@
+Hit:1 https://termux.net stable InRelease
+Ign:2 https://dl.bintray.com/grimler/game-packages-21 games InRelease
+Ign:3 https://dl.bintray.com/grimler/science-packages-21 science InRelease
+Ign:4 https://dl.bintray.com/xeffyr/unstable-packages-21 unstable InRelease
+Get:5 https://dl.bintray.com/grimler/game-packages-21 games Release [5344 B]
+Hit:5 https://dl.bintray.com/grimler/game-packages-21 games Release
+Get:7 https://dl.bintray.com/grimler/science-packages-21 science Release [5348 B]
+Hit:7 https://dl.bintray.com/grimler/science-packages-21 science Release
+Get:9 https://dl.bintray.com/xeffyr/unstable-packages-21 unstable Release [6065 B]
+Hit:9 https://dl.bintray.com/xeffyr/unstable-packages-21 unstable Release
+Reading package lists...
