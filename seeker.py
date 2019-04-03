@@ -32,14 +32,14 @@ if sys.version_info[0] >= 3:
 def banner():
 	os.system('clear')
 	print (C +
-	r'''                        __
+	r'''                        
 
   |-------------------------------------|
   |   YouTube Channel:TECH WITH KUNAL   |
   |   Subscribe My Channel              |
   |   Like and Share Videos             |
   |_____________________________________|                                     |
-	 \/      \/     \/      \/     \/        ''' + W)
+	 ''' + W)
 	print ('\n' + G + '[>]' + C + ' Created By : ' + W + 'Tech With Kunal')
 	print (G + '[>]' + C + ' Version    : ' + W + ver + '\n')
 
