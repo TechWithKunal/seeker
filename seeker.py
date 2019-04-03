@@ -38,7 +38,7 @@ def banner():
   |   YouTube Channel:TECH WITH KUNAL   |
   |_____________________________________|                                     |
 	 \/      \/     \/      \/     \/        ''' + W)
-	print ('\n' + G + '[>]' + C + ' Created By : ' + W + 'thewhiteh4t')
+	print ('\n' + G + '[>]' + C + ' Created By : ' + W + 'techwithkunal')
 	print (G + '[>]' + C + ' Version    : ' + W + ver + '\n')
 
 def network():
