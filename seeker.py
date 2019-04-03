@@ -36,9 +36,11 @@ def banner():
 
   |-------------------------------------|
   |   YouTube Channel:TECH WITH KUNAL   |
+  |   Subscribe My Channel              |
+  |   Like and Share Videos             |
   |_____________________________________|                                     |
 	 \/      \/     \/      \/     \/        ''' + W)
-	print ('\n' + G + '[>]' + C + ' Created By : ' + W + 'techwithkunal')
+	print ('\n' + G + '[>]' + C + ' Created By : ' + W + 'Tech With Kunal')
 	print (G + '[>]' + C + ' Version    : ' + W + ver + '\n')
 
 def network():
@@ -52,7 +54,7 @@ def network():
 
 def version():
 	print (G + '[+]' + C + ' Checking For Seeker Updates...' + W, end='')
-	update = requests.get('https://raw.githubusercontent.com/thewhiteh4t/seeker/master/version.txt', timeout = 5)
+	update = requests.get('https://raw.githubusercontent.com/TechWithKunal/seeker/master/version.txt', timeout = 5)
 	update = update.text.split(' ')[1]
 	update = update.strip()
 
